@@ -69,6 +69,7 @@ h1, h2, h3{
     margin: 0 5vw;
     grid-template-columns: 30% 30% 30%;
     background-color: rgb(91, 108, 128);
+    justify-content: space-between;
 }
 
 .grid div{
